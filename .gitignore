@@ -1,0 +1,6 @@
+/backend/.fastembed_cache
+/backend/Cargo.lock
+/backend/target
+/frontend/dist
+/frontend/target
+/frontend/Cargo.lock
