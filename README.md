@@ -1,5 +1,5 @@
 # project-root
--ต้อง Run Project backend ก่อนเพื่อทำการเชื่อม IAPI
+-ต้อง Run Project backend ก่อนเพื่อทำการเชื่อม API
  
 ## สำหรับ backend 
 ```
